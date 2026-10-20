@@ -271,7 +271,8 @@ anotações no Hypothes.is. Na geração 2, o painel **Ache** tem sumário e bus
 | Código | Coberto pela mesma CC BY-NC-SA. `toc.html` é MIT. | **MIT** |
 
 O que isso significa para nós, e o que pode ou não ser aproveitado, está em
-[04-conteudo-e-licencas.md](04-conteudo-e-licencas.md).
+[04-conteudo-e-licencas.md](04-conteudo-e-licencas.md). Como o projeto novo é filantrópico (dono,
+2026-10-20), a cláusula NC da geração 1 não impede o uso. Ela só passaria para as obras derivadas.
 
 ## 8. O que levamos
 
