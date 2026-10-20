@@ -50,8 +50,9 @@ O site não ensina o método: ele o **torna prática**. Cada princípio vira uma
 
 ## 4. O que o site atual mantém
 
-1. **A missão e o tom:** estudo sério, fidelidade ao texto, fraternidade, sem fins lucrativos (o modelo de
-   operação é decisão aberta, [05](05-proximos-passos.md)) e respeito aos detentores de direitos.
+1. **A missão e o tom:** estudo sério, fidelidade ao texto, fraternidade e respeito aos detentores de
+   direitos. **O projeto é filantrópico** (dono, 2026-10-20): a Zarp não tem interesse comercial nele. Não
+   há venda, anúncios nem monetização, como no projeto do Sergio.
 2. **A Codificação no centro:** as cinco obras, legíveis, com **endereço estável para cada questão e cada
    item**. Sem isso não há citação.
 3. **As vozes identificadas:** Espírito (com assinatura), Kardec e texto bíblico.

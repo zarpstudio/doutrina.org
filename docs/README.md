@@ -33,6 +33,8 @@ Next.js, com a wiki como núcleo. Fica como referência, não como base de códi
    logada. Quando a conexão volta, o backend atualiza o que mudou. A ideia é reduzir ao máximo a dependência
    do backend.
 6. **Este repositório será open source.**
+7. **A Zarp não tem interesse comercial no doutrina.org.** O projeto é filantrópico: sem venda, sem anúncios
+   e sem monetização.
 
 ## Documentos
 

@@ -10,7 +10,7 @@
 |---|---|---|
 | **Domínio público** | O texto francês de Kardec. As traduções de Guillon Ribeiro. A de Manuel Quintão (CEU), desde 2026. As citações bíblicas **tal como aparecem no texto traduzido**. | **Sim.** Atribuição recomendada. |
 | **Livre, com condições** | A marcação do Sergio na geração 2 (CC BY-SA 4.0). O código LIBRUS (MIT). Verbetes da Wikipédia e do Wikcionário (CC BY-SA). OpenStreetMap (ODbL, com atribuição). | **Sim**, cumprindo a licença: atribuição e, no caso da CC BY-SA, a mesma licença nas derivações. |
-| **Com restrição** | A marcação da geração 1 (CC BY-NC-SA 4.0: **não comercial**). | **Só** em contexto não comercial, **ou** com autorização do Sergio para relicenciar. |
+| **Com restrição** | A marcação da geração 1 (CC BY-NC-SA 4.0: **não comercial**). | **Sim**, porque o projeto é filantrópico (dono, 2026-10-20). Mas o NC passa para as derivações (ver §6). |
 | **Precisa de permissão ou deve sair** | A "Nota explicativa" da FEB. As notas da editora (N.E.). Os PDFs e o projeto gráfico da FEB. As citações da ARC (SBB). As traduções modernas (Herculano Pires, Evandro Noleto Bezerra, Salvador Gentile e outras). Os conteúdos do Luz Espírita e do Kardecpedia. | **Não**, sem permissão por escrito. Links podem. |
 | **Pessoal ou de origem desconhecida** | As fotos do casal. As ilustrações sem fonte. As anotações dos leitores no Hypothes.is. | **Não reutilizar** sem consentimento ou sem conferir a origem. |
 
@@ -82,7 +82,7 @@ continua o trabalho de Kardec.
 
 | Geração | Licença declarada | O que isso significa para nós |
 |---|---|---|
-| **1 (este fork)** | CC BY-NC-SA 4.0. Está na página "Avisos legais", **sem** arquivo LICENSE no repositório. A licença diz cobrir só o formato (diagramação, emojis, tipografia, hierarquia, "código mestre"), **não** o conteúdo. | **NC = não comercial.** A Zarp é uma empresa, e o B22 cogita monetização (W5). Usar esta marcação exige uma operação **não comercial** ou **autorização do Sergio**. **SA** exige a mesma licença nas derivações. |
+| **1 (este fork)** | CC BY-NC-SA 4.0. Está na página "Avisos legais", **sem** arquivo LICENSE no repositório. A licença diz cobrir só o formato (diagramação, emojis, tipografia, hierarquia, "código mestre"), **não** o conteúdo. | **NC = não comercial.** O projeto é filantrópico (dono, 2026-10-20), sem venda, anúncios nem monetização, então o uso é compatível. **Mas há duas ressalvas.** Primeiro, por causa do SA, o NC passa para as derivações: as páginas da wiki que incorporassem essa marcação ficariam BY-NC-SA, e não CC BY-SA como as outras. Segundo, pelos termos do NC, terceiros não poderiam reutilizá-las comercialmente. Por isso a geração 2 continua sendo a melhor fonte. |
 | **2 (`doutrina-content`)** | **CC BY-SA 4.0** (`LICENSE`, `NOTICE`: "Copyright (c) 2026 Mai and Sergio"). O texto de Kardec e as traduções ficam de fora e são declarados domínio público. | **Compatível** com a licença da wiki (CC BY-SA 4.0, W4), com atribuição e mesma licença nas derivações. É a melhor fonte para migrar, depois da limpeza do §3. |
 | **Código LIBRUS** (`librus-shell`, `librus-linker`, `lde-q`, hosts) | **MIT** | Pode ser lido e reaproveitado com aviso de copyright. O dono decidiu reconstruir em Next.js, então o mais provável é aproveitar ideias, não código. |
 

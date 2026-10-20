@@ -247,8 +247,9 @@ abaixo é **[lacuna B22]** e precisa ser validado com assessoria jurídica:
 1. **LGPD:** base legal, consentimento específico para dado sensível (convicção religiosa, art. 11),
    encarregado (DPO), direitos do titular (art. 18) e política de privacidade em português.
 2. **Marco Civil da Internet** (Lei 12.965/2014):
-   - guarda dos registros de acesso por 6 meses (art. 15), quando o operador for uma empresa com fins
-     econômicos;
+   - guarda dos registros de acesso por 6 meses (art. 15). A obrigação vale para quem atua com fins
+     econômicos. Como o projeto é filantrópico, falta confirmar se ela se aplica quando a Zarp, uma empresa,
+     opera o site sem fins econômicos;
    - remoção após notificação, nos casos dos arts. 19 e 21;
    - a decisão do STF de 2025 sobre o art. 19 aumentou a responsabilidade das plataformas.
 3. **Menores:** ECA e ECA Digital (Lei 15.211/2025), com idade mínima e verificação.
@@ -265,7 +266,7 @@ abaixo é **[lacuna B22]** e precisa ser validado com assessoria jurídica:
 | NF-2 | **Mobile em pé por padrão,** com tablet e desktop aproveitando as colunas (ler, consultar e conversar). | [site] |
 | NF-3 | Português do Brasil primeiro, com a estrutura de idiomas preparada desde o início. O inglês vem depois: o Sergio conduz estudos em inglês. | [site] + [backend] |
 | NF-4 | Core Web Vitals no verde. Métricas sem rastreadores de terceiros (B12 da Zarp, ou nada). | [site] + [decisão] |
-| NF-5 | Sem anúncios. | [decisão] (B22 W5) |
+| NF-5 | **Sem anúncios, sem venda e sem monetização.** O projeto é filantrópico (dono, 2026-10-20). Neste tenant, o B22 W5 fica "nenhuma". | Decidido |
 
 ## 16. Regras do mercado: o que o B22 já cobre e o que falta
 
